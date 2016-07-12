@@ -1,0 +1,28 @@
+name: Realidade Musical
+favicon: null
+layout_spectrum: 0.8900241432711482
+typography_spectrum: 0.19943494582548738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.010554199572652578
+  lightness: 0.16001697606407106
+  saturation: 0.8689336874522269
+  rhythmicContrast: 0.797853423980996
+purpose: []

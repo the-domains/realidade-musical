@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Realidade Musical]]></title>
+        <description><![CDATA[Realidade Musical]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 19:46:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Episódio 12 saiu do forno! Depois de 23 anos morando e produzindo na Inglaterra, Rique voltou ao Brasil e vem trabalhando com diversos artistas que buscam uma sonoridade mais britânica. Além de compor trilhas para programas de TV, ele foi o produtor que trabalhou com a banda Abstratus na primeira temporada do programa, para conferir os episódios, acesse o canal da banda na descrição do episódio.</p>]]></description>
+            <link>undefinedepisodio-12-saiu-do-forno-depois-de-23-anos-morando-e-produ/index.html</link>
+            <guid isPermaLink="false">1885bc2b-e41d-4816-84bf-e232ab3dec63</guid>
+            <pubDate>Tue, 12 Jul 2016 19:45:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
